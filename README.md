@@ -35,15 +35,6 @@ Pré-requisitos
 
     Visual Studio 2022 (ou outro editor compatível)
 
-Passos
-
-    Clone o repositório:
-
-git clone https://github.com/seu-usuario/screensound.git
-
-    Abra o arquivo ScreenSound.sln no Visual Studio
-
-    Pressione F5 ou clique em Iniciar
 
 📁 Estrutura
 
